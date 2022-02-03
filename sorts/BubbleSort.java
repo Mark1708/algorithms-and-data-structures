@@ -1,10 +1,10 @@
+/**
+ * Сортировка пузырьком - самый простой и известный алгоритм, но с низкой скоростью.
+ *
+ * Сложность O(N^2)
+ */
 class BubbleSort implements SortAlgorithm {
 
-    /**
-     * Сортировка пузырьком - самый простой и известный алгоритм, но с низкой скоростью.
-     *
-     * Сложность O(N^2)
-     */
     @Override
     public <T extends Comparable<T>> T[] sort(T[] array) {
         long start = System.nanoTime();

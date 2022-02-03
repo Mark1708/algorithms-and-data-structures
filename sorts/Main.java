@@ -1,13 +1,13 @@
 
 public class Main {
     public static void main(String[] args) {
-        BubbleSort bubbleSort = new BubbleSort();
+        SelectionSort sort = new SelectionSort();
 
         Integer[] integers = {4, 23, 6, 78, 1, 54, 231, 9, 12};
-        test(bubbleSort, integers);
+        test(sort, integers);
 
         String[] strings = {"c", "a", "e", "b", "d", "e", "p", "s", "l"};
-        test(bubbleSort, strings);
+        test(sort, strings);
     }
 
     private static <T extends Comparable<T>> void test(SortAlgorithm sortAlgorithm, T[] array) {
