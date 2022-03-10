@@ -36,4 +36,4 @@ The project was created for educational purposes
 Created by [Gurianov Mark](https://mark1708.github.io/) - feel free to contact me!
 #### +7(962)024-50-04 | mark1708.work@gmail.com | [github](http://github.com/Mark1708)
 
-![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark1708&repo=spring-boot-basic-microservice&theme=chartreuse-dark&show_icons=true)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=mark1708&repo=algorithms-and-data-structures&theme=chartreuse-dark&show_icons=true)
